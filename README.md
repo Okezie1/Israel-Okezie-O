@@ -17,4 +17,4 @@ Risk Assessments, Network Security, Endpoint security,
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=Okezie1&amp;show_icons=true&amp;theme=radical)
 ### ✨ Fun Fact
-I&#39;m on a always on the path to problem-solving even in my dreams.
+I&#39;m  always on the path to problem-solving even in my dreams.
